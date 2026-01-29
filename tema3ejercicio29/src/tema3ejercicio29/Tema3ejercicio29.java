@@ -8,7 +8,7 @@ public class Tema3ejercicio29 {
 		// TODO Auto-generated method stub
 //Github primera prueba
 		Scanner sc=new Scanner(System.in);
-		
+		// seggundo cambio
 		double peso,altura,imc;
 		
 		System.out.print("Dime tu altura :");
